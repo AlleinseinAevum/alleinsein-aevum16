@@ -4,13 +4,11 @@ languageCode = 'zh-cn'
 defaultContentLanguage = "zh-cn"
 enableEmoji = true
 
-# 核心：注销掉 theme 行，解决 Fail 问题
 # theme = "hugo-blog-awesome"
 
 [markup.highlight]
   noClasses = false
 
-############################## 中文配置 ################################
 [Languages.zh-cn]
   languageName = "中文"
   languageCode = "zh-cn"
@@ -31,19 +29,13 @@ enableEmoji = true
     weight = 30
 
 [Languages.zh-cn.params]
-  sitename = "the last evening on earth"
-  description = " 赛博空间漫游者"
-  defaultColor = "dark" # 
+  sitename = "alleinsein aevum"
+  description = "赛博空间漫游者"
+  defaultColor = "dark"
   mainSections = ['posts']
-  toc = true 
 
 [Languages.zh-cn.params.author]
   name = "Audrey"
-  intro = "Just 4 fun."
-  description = "自留地。"
-  avatar = "avatar.jpg" 
-
-############################## 社交图标 ################################
-[[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/your-username" # 这里可以改成你的 GitHub 主页
+  intro = "alleinsein aevum"
+  description = "我的数字基地。"
+  avatar = "avatar.jpg"
