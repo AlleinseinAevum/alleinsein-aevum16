@@ -30,12 +30,12 @@ enableEmoji = true
 
 [Languages.zh-cn.params]
   sitename = "alleinsein aevum"
-  description = "赛博空间漫游者"
+  description = "赛博漫游者"
   defaultColor = "dark"
   mainSections = ['posts']
 
 [Languages.zh-cn.params.author]
   name = "Audrey"
   intro = "alleinsein aevum"
-  description = "我的数字基地。"
-  avatar = "avatar.jpg"
+  description = "赛博漫游者"
+  avatar = "cyber-me.jpg" 
